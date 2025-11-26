@@ -1,0 +1,151 @@
+SUBJID,TRT,AGE,SEX,RACE,WEIGHT,HEIGHT,COUNTRY,BMI
+SUB001,Drug A 10mg,42,M,White,60.3,179.9,Germany,18.6
+SUB002,Drug A 20mg,49,M,White,53.8,170.9,UK,18.4
+SUB003,Drug A 20mg,44,M,White,95.3,154.5,USA,39.9
+SUB004,Drug A 10mg,27,F,White,83.2,154.5,Canada,34.9
+SUB005,Placebo,62,F,White,69.9,166.0,USA,25.4
+SUB006,Placebo,56,M,White,92.2,190.0,UK,25.5
+SUB007,Placebo,56,M,Hispanic,71.2,166.9,UK,25.6
+SUB008,Drug A 20mg,31,F,Other,57.1,152.0,USA,24.7
+SUB009,Drug A 10mg,66,F,Black,92.8,167.1,Germany,33.2
+SUB010,Drug A 20mg,23,F,White,78.1,166.7,UK,28.1
+SUB011,Placebo,53,F,White,54.4,137.6,USA,28.7
+SUB012,Drug A 20mg,77,M,Asian,67.1,169.3,Canada,23.4
+SUB013,Drug A 20mg,30,M,Black,56.9,167.2,UK,20.4
+SUB014,Placebo,36,F,White,49.3,178.4,USA,15.5
+SUB015,Placebo,46,M,Hispanic,83.9,192.2,Germany,22.7
+SUB016,Placebo,37,F,Asian,98.6,183.5,USA,29.3
+SUB017,Placebo,21,F,Hispanic,49.0,166.8,UK,17.6
+SUB018,Drug A 10mg,46,F,Black,78.4,156.7,UK,31.9
+SUB019,Drug A 10mg,29,M,Black,60.2,200.9,UK,14.9
+SUB020,Placebo,52,F,White,62.7,170.7,Canada,21.5
+SUB021,Drug A 10mg,31,M,Hispanic,61.1,170.2,UK,21.1
+SUB022,Placebo,68,F,Asian,57.0,169.7,UK,19.8
+SUB023,Placebo,33,F,White,70.7,172.4,USA,23.8
+SUB024,Drug A 10mg,40,M,White,57.5,168.3,UK,20.3
+SUB025,Drug A 10mg,57,F,White,74.1,163.1,USA,27.9
+SUB026,Drug A 20mg,26,F,Asian,69.2,163.4,Canada,25.9
+SUB027,Placebo,48,M,Other,66.4,169.6,USA,23.1
+SUB028,Drug A 10mg,64,M,White,56.4,163.5,USA,21.1
+SUB029,Drug A 10mg,20,M,White,61.3,161.4,USA,23.5
+SUB030,Placebo,47,M,White,81.3,171.3,Germany,27.7
+SUB031,Drug A 10mg,48,M,Hispanic,77.5,166.9,USA,27.8
+SUB032,Placebo,56,F,Asian,55.3,188.0,Germany,15.6
+SUB033,Placebo,26,M,Asian,71.5,138.2,USA,37.4
+SUB034,Drug A 20mg,25,M,White,81.3,183.1,USA,24.3
+SUB035,Drug A 20mg,52,F,White,45.0,185.0,Canada,13.1
+SUB036,Drug A 20mg,49,M,White,78.2,145.1,Germany,37.1
+SUB037,Placebo,48,F,White,60.1,165.9,USA,21.8
+SUB038,Placebo,50,M,Asian,78.6,165.5,Germany,28.7
+SUB039,Drug A 20mg,34,M,Asian,58.6,153.1,UK,25.0
+SUB040,Drug A 10mg,48,F,Other,42.9,160.7,Germany,16.6
+SUB041,Placebo,49,F,Other,45.6,156.7,USA,18.6
+SUB042,Drug A 10mg,34,F,White,70.7,191.0,USA,19.4
+SUB043,Placebo,72,F,Asian,73.9,181.2,UK,22.5
+SUB044,Drug A 20mg,52,F,Hispanic,56.4,185.3,USA,16.4
+SUB045,Placebo,27,M,Asian,79.6,178.7,UK,24.9
+SUB046,Drug A 20mg,54,M,White,45.1,156.5,Canada,18.4
+SUB047,Placebo,30,F,White,69.0,163.7,UK,25.7
+SUB048,Drug A 10mg,56,F,White,51.8,175.9,Germany,16.7
+SUB049,Drug A 10mg,62,F,Hispanic,60.2,155.3,UK,25.0
+SUB050,Placebo,32,M,Black,70.7,178.6,USA,22.2
+SUB051,Drug A 20mg,59,M,White,57.1,167.1,Germany,20.4
+SUB052,Drug A 20mg,51,F,Black,64.2,165.5,Canada,23.4
+SUB053,Drug A 20mg,57,M,Black,85.1,178.5,Canada,26.7
+SUB054,Drug A 20mg,73,F,White,61.3,175.3,Germany,19.9
+SUB055,Drug A 10mg,41,F,White,82.5,165.7,UK,30.0
+SUB056,Drug A 20mg,33,M,Black,53.1,183.9,UK,15.7
+SUB057,Placebo,31,F,White,77.9,157.0,Germany,31.6
+SUB058,Placebo,32,F,Asian,91.6,177.4,Canada,29.1
+SUB059,Placebo,43,M,White,32.9,177.1,Canada,10.5
+SUB060,Placebo,50,F,Asian,58.0,166.3,Germany,21.0
+SUB061,Drug A 10mg,49,F,White,78.7,173.9,USA,26.0
+SUB062,Placebo,57,F,White,67.0,155.0,USA,27.9
+SUB063,Drug A 20mg,45,M,Asian,75.6,181.1,USA,23.1
+SUB064,Drug A 10mg,66,F,White,60.9,167.8,USA,21.6
+SUB065,Placebo,41,M,White,71.3,163.7,USA,26.6
+SUB066,Drug A 10mg,85,M,White,67.7,182.6,USA,20.3
+SUB067,Placebo,54,F,Asian,87.5,161.5,USA,33.5
+SUB068,Drug A 20mg,32,M,Black,73.8,153.1,USA,31.5
+SUB069,Placebo,28,M,Black,75.1,151.3,UK,32.8
+SUB070,Drug A 20mg,52,F,White,63.8,177.3,Canada,20.3
+SUB071,Drug A 20mg,41,F,White,62.7,154.6,USA,26.2
+SUB072,Placebo,55,F,White,63.5,191.1,Germany,17.4
+SUB073,Placebo,52,F,White,75.9,145.0,USA,36.1
+SUB074,Drug A 20mg,43,M,White,63.7,190.4,UK,17.6
+SUB075,Drug A 20mg,32,M,White,74.3,172.5,Germany,25.0
+SUB076,Drug A 20mg,22,M,White,101.1,168.8,USA,35.5
+SUB077,Drug A 20mg,38,F,Hispanic,83.1,163.5,Canada,31.1
+SUB078,Placebo,57,F,White,65.1,174.8,UK,21.3
+SUB079,Drug A 10mg,48,F,White,88.0,169.5,UK,30.6
+SUB080,Placebo,26,F,Asian,63.9,183.2,Canada,19.0
+SUB081,Drug A 20mg,47,M,White,39.4,171.4,Germany,13.4
+SUB082,Drug A 10mg,50,F,Black,54.9,171.8,USA,18.6
+SUB083,Drug A 10mg,31,M,Asian,41.9,165.6,UK,15.3
+SUB084,Placebo,47,F,Hispanic,64.7,169.3,USA,22.6
+SUB085,Placebo,45,M,White,70.3,173.7,UK,23.3
+SUB086,Placebo,27,F,Hispanic,95.1,149.5,Germany,42.5
+SUB087,Drug A 20mg,50,M,White,74.9,153.8,Germany,31.7
+SUB088,Drug A 10mg,53,M,White,66.7,178.9,Canada,20.8
+SUB089,Drug A 20mg,61,M,White,82.4,172.1,USA,27.8
+SUB090,Drug A 10mg,60,F,Other,36.8,167.8,USA,13.1
+SUB091,Placebo,24,F,White,73.5,170.2,USA,25.4
+SUB092,Drug A 20mg,30,M,White,81.6,174.2,USA,26.9
+SUB093,Drug A 20mg,52,M,Black,47.8,163.5,Germany,17.9
+SUB094,Drug A 10mg,52,F,White,87.2,160.7,USA,33.8
+SUB095,Drug A 20mg,52,M,White,75.1,172.4,USA,25.3
+SUB096,Drug A 10mg,102,F,White,63.8,158.3,UK,25.5
+SUB097,Drug A 10mg,53,F,White,79.5,174.9,UK,26.0
+SUB098,Drug A 10mg,62,M,White,104.1,149.6,UK,46.5
+SUB099,Placebo,59,M,White,72.7,182.3,UK,21.9
+SUB100,Placebo,54,F,Black,73.7,175.7,USA,23.9
+SUB101,Placebo,40,M,White,63.1,173.1,USA,21.1
+SUB102,Drug A 10mg,56,M,White,57.3,181.8,Germany,17.3
+SUB103,Placebo,33,F,Asian,82.5,190.0,Germany,22.9
+SUB104,Drug A 10mg,41,F,White,57.2,182.2,USA,17.2
+SUB105,Drug A 20mg,37,F,Black,71.1,147.9,UK,32.5
+SUB106,Placebo,46,F,White,62.8,154.6,USA,26.3
+SUB107,Drug A 10mg,79,M,White,77.2,162.5,USA,29.2
+SUB108,Drug A 20mg,16,M,White,75.0,170.3,Canada,25.9
+SUB109,Placebo,55,F,White,85.6,176.2,Canada,27.6
+SUB110,Placebo,20,F,White,62.3,161.3,Canada,23.9
+SUB111,Placebo,37,M,White,66.0,172.2,USA,22.3
+SUB112,Placebo,61,F,White,55.3,160.9,UK,21.4
+SUB113,Drug A 20mg,45,M,White,63.3,162.7,USA,23.9
+SUB114,Drug A 20mg,28,F,White,75.7,153.1,USA,32.3
+SUB115,Drug A 10mg,34,M,White,81.4,158.9,UK,32.2
+SUB116,Drug A 20mg,55,M,White,56.2,153.8,UK,23.8
+SUB117,Drug A 20mg,34,M,White,83.0,158.3,UK,33.1
+SUB118,Placebo,48,M,Black,90.3,182.6,UK,27.1
+SUB119,Drug A 20mg,45,M,White,76.2,158.6,Germany,30.3
+SUB120,Drug A 10mg,35,F,Asian,98.2,201.6,Canada,24.2
+SUB121,Drug A 20mg,77,F,Black,58.4,175.9,USA,18.9
+SUB122,Drug A 20mg,54,F,White,51.3,172.2,Canada,17.3
+SUB123,Placebo,14,F,Asian,43.3,159.7,USA,17.0
+SUB124,Placebo,47,M,Hispanic,92.4,178.4,USA,29.0
+SUB125,Placebo,35,M,White,79.8,163.1,Germany,30.0
+SUB126,Drug A 10mg,57,F,White,69.2,171.5,Canada,23.5
+SUB127,Drug A 20mg,33,M,Asian,74.2,200.7,USA,18.4
+SUB128,Drug A 20mg,43,F,Black,53.1,168.8,USA,18.6
+SUB129,Placebo,52,M,White,106.7,183.8,Germany,31.6
+SUB130,Drug A 10mg,57,F,White,71.9,161.6,USA,27.5
+SUB131,Drug A 10mg,26,M,White,71.6,169.6,UK,24.9
+SUB132,Placebo,39,F,White,80.9,191.2,Canada,22.1
+SUB133,Placebo,37,F,Black,77.2,162.5,Canada,29.2
+SUB134,Drug A 10mg,35,F,White,73.4,191.7,Canada,20.0
+SUB135,Drug A 20mg,71,M,White,58.1,178.5,UK,18.2
+SUB136,Placebo,51,F,Black,77.1,163.3,USA,28.9
+SUB137,Drug A 10mg,26,F,White,98.2,177.6,Germany,31.1
+SUB138,Drug A 20mg,58,F,White,90.2,181.7,Canada,27.3
+SUB139,Drug A 10mg,76,F,Black,93.9,177.5,USA,29.8
+SUB140,Drug A 20mg,60,F,Asian,62.3,151.2,UK,27.3
+SUB141,Drug A 20mg,22,M,White,55.2,161.3,Germany,21.2
+SUB142,Placebo,37,F,White,68.1,167.0,Germany,24.4
+SUB143,Drug A 10mg,64,F,White,70.8,169.1,UK,24.8
+SUB144,Placebo,34,F,White,86.4,177.4,UK,27.5
+SUB145,Placebo,51,M,White,44.6,172.1,Germany,15.1
+SUB146,Placebo,56,M,White,92.9,154.0,UK,39.2
+SUB147,Drug A 10mg,31,F,White,67.6,174.6,Germany,22.2
+SUB148,Drug A 10mg,44,F,White,63.6,177.3,Germany,20.2
+SUB149,Placebo,-3,M,White,54.8,176.7,Germany,17.6
+SUB150,Placebo,29,F,White,45.2,183.0,Germany,13.5

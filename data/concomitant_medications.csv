@@ -1,0 +1,296 @@
+SUBJID,TRT,CMTRT,CMDOSE,CMFREQ,CMSTDT
+SUB001,Drug A 10mg,Vitamin D,10 mg,Three times daily,2022-08-10
+SUB001,Drug A 10mg,Metoprolol,20 mg,As needed,2022-08-18
+SUB001,Drug A 10mg,Metoprolol,10 mg,Three times daily,2022-11-27
+SUB001,Drug A 10mg,Lisinopril,25 mg,Twice daily,2022-06-04
+SUB002,Drug A 20mg,Metformin,50 mg,Three times daily,2022-08-14
+SUB002,Drug A 20mg,Levothyroxine,5 mg,Three times daily,2022-09-23
+SUB005,Placebo,Ibuprofen,100 mg,Twice daily,2022-08-21
+SUB005,Placebo,Lisinopril,5 mg,Twice daily,2022-07-05
+SUB006,Placebo,Lisinopril,200 mg,Three times daily,2022-06-08
+SUB006,Placebo,Levothyroxine,20 mg,As needed,2022-07-02
+SUB006,Placebo,Omeprazole,10 mg,Once daily,2022-10-12
+SUB007,Placebo,Vitamin D,50 mg,Twice daily,2022-06-09
+SUB008,Drug A 20mg,Aspirin,10 mg,Three times daily,2022-06-11
+SUB010,Drug A 20mg,Metoprolol,25 mg,As needed,2022-10-31
+SUB010,Drug A 20mg,Acetaminophen,25 mg,Once daily,2022-07-12
+SUB010,Drug A 20mg,Ibuprofen,25 mg,Twice daily,2022-06-18
+SUB011,Placebo,Vitamin D,10 mg,Twice daily,2022-11-13
+SUB011,Placebo,Omeprazole,25 mg,Twice daily,2022-08-20
+SUB011,Placebo,Atorvastatin,20 mg,Three times daily,2022-11-11
+SUB011,Placebo,Vitamin D,10 mg,Twice daily,2022-10-01
+SUB012,Drug A 20mg,Metoprolol,50 mg,As needed,2022-08-15
+SUB012,Drug A 20mg,Vitamin D,100 mg,Three times daily,2022-07-10
+SUB012,Drug A 20mg,Levothyroxine,25 mg,Three times daily,2022-11-02
+SUB013,Drug A 20mg,Acetaminophen,20 mg,As needed,2022-06-09
+SUB013,Drug A 20mg,Lisinopril,5 mg,Once daily,2022-06-07
+SUB014,Placebo,Atorvastatin,20 mg,Three times daily,2022-07-27
+SUB014,Placebo,Aspirin,10 mg,Three times daily,2022-10-05
+SUB014,Placebo,Vitamin D,20 mg,Three times daily,2022-08-06
+SUB015,Placebo,Vitamin D,50 mg,Twice daily,2022-11-25
+SUB015,Placebo,Metoprolol,200 mg,Three times daily,2022-06-10
+SUB016,Placebo,Vitamin D,50 mg,Three times daily,2022-10-29
+SUB016,Placebo,Ibuprofen,200 mg,Three times daily,2022-10-10
+SUB017,Placebo,Aspirin,200 mg,Once daily,2022-09-05
+SUB017,Placebo,Atorvastatin,200 mg,Three times daily,2022-11-19
+SUB017,Placebo,Aspirin,200 mg,Three times daily,2022-09-17
+SUB018,Drug A 10mg,Atorvastatin,100 mg,As needed,2022-11-19
+SUB019,Drug A 10mg,Metoprolol,5 mg,As needed,2022-11-12
+SUB019,Drug A 10mg,Aspirin,100 mg,Three times daily,2022-11-07
+SUB019,Drug A 10mg,Levothyroxine,5 mg,Twice daily,2022-11-20
+SUB019,Drug A 10mg,Aspirin,50 mg,Twice daily,2022-10-05
+SUB019,Drug A 10mg,Vitamin D,10 mg,Twice daily,2022-11-11
+SUB019,Drug A 10mg,Aspirin,200 mg,As needed,2022-06-05
+SUB020,Placebo,Omeprazole,5 mg,As needed,2022-10-03
+SUB021,Drug A 10mg,Ibuprofen,10 mg,Once daily,2022-07-23
+SUB022,Placebo,Metformin,25 mg,As needed,2022-08-22
+SUB022,Placebo,Ibuprofen,10 mg,Twice daily,2022-06-14
+SUB023,Placebo,Acetaminophen,5 mg,Three times daily,2022-11-05
+SUB024,Drug A 10mg,Acetaminophen,50 mg,Three times daily,2022-11-21
+SUB025,Drug A 10mg,Metformin,20 mg,Twice daily,2022-06-19
+SUB025,Drug A 10mg,Omeprazole,5 mg,Once daily,2022-10-13
+SUB026,Drug A 20mg,Acetaminophen,200 mg,Three times daily,2022-09-18
+SUB027,Placebo,Metoprolol,200 mg,Twice daily,2022-11-04
+SUB027,Placebo,Acetaminophen,20 mg,Three times daily,2022-11-03
+SUB027,Placebo,Vitamin D,10 mg,Once daily,2022-11-23
+SUB027,Placebo,Vitamin D,5 mg,As needed,2022-10-18
+SUB027,Placebo,Metoprolol,25 mg,Once daily,2022-10-30
+SUB028,Drug A 10mg,Acetaminophen,50 mg,As needed,2022-11-26
+SUB028,Drug A 10mg,Metformin,20 mg,Twice daily,2022-10-12
+SUB028,Drug A 10mg,Metoprolol,5 mg,As needed,2022-08-17
+SUB028,Drug A 10mg,Atorvastatin,5 mg,Twice daily,2022-07-04
+SUB029,Drug A 10mg,Atorvastatin,100 mg,Three times daily,2022-10-26
+SUB030,Placebo,Vitamin D,10 mg,Three times daily,2022-08-09
+SUB031,Drug A 10mg,Aspirin,10 mg,Once daily,2022-11-19
+SUB031,Drug A 10mg,Acetaminophen,100 mg,Three times daily,2022-10-13
+SUB031,Drug A 10mg,Metoprolol,50 mg,As needed,2022-06-20
+SUB032,Placebo,Metformin,20 mg,Three times daily,2022-11-04
+SUB032,Placebo,Ibuprofen,50 mg,As needed,2022-11-11
+SUB033,Placebo,Acetaminophen,10 mg,As needed,2022-09-10
+SUB034,Drug A 20mg,Metformin,20 mg,As needed,2022-06-15
+SUB035,Drug A 20mg,Vitamin D,100 mg,Twice daily,2022-07-12
+SUB036,Drug A 20mg,Acetaminophen,200 mg,Once daily,2022-08-29
+SUB036,Drug A 20mg,Levothyroxine,20 mg,Three times daily,2022-11-23
+SUB036,Drug A 20mg,Vitamin D,100 mg,Three times daily,2022-09-30
+SUB036,Drug A 20mg,Vitamin D,100 mg,As needed,2022-07-18
+SUB038,Placebo,Lisinopril,50 mg,Three times daily,2022-06-05
+SUB039,Drug A 20mg,Metformin,100 mg,Once daily,2022-08-25
+SUB039,Drug A 20mg,Ibuprofen,100 mg,Once daily,2022-07-01
+SUB040,Drug A 10mg,Atorvastatin,50 mg,As needed,2022-06-20
+SUB042,Drug A 10mg,Aspirin,5 mg,As needed,2022-10-27
+SUB042,Drug A 10mg,Ibuprofen,100 mg,Three times daily,2022-06-03
+SUB044,Drug A 20mg,Vitamin D,50 mg,As needed,2022-10-25
+SUB044,Drug A 20mg,Atorvastatin,50 mg,Three times daily,2022-09-19
+SUB044,Drug A 20mg,Vitamin D,20 mg,Once daily,2022-06-29
+SUB045,Placebo,Metformin,200 mg,As needed,2022-06-11
+SUB046,Drug A 20mg,Metformin,5 mg,As needed,2022-07-08
+SUB046,Drug A 20mg,Metformin,50 mg,Three times daily,2022-07-16
+SUB047,Placebo,Metformin,5 mg,Once daily,2022-11-07
+SUB047,Placebo,Metoprolol,50 mg,Twice daily,2022-09-23
+SUB047,Placebo,Levothyroxine,5 mg,Three times daily,2022-07-29
+SUB047,Placebo,Omeprazole,100 mg,Three times daily,2022-07-06
+SUB047,Placebo,Omeprazole,25 mg,Three times daily,2022-08-16
+SUB048,Drug A 10mg,Vitamin D,25 mg,Three times daily,2022-09-20
+SUB048,Drug A 10mg,Omeprazole,200 mg,Three times daily,2022-07-15
+SUB049,Drug A 10mg,Acetaminophen,200 mg,Twice daily,2022-09-18
+SUB050,Placebo,Atorvastatin,50 mg,As needed,2022-07-02
+SUB051,Drug A 20mg,Lisinopril,100 mg,Three times daily,2022-10-28
+SUB051,Drug A 20mg,Metformin,50 mg,Twice daily,2022-09-25
+SUB052,Drug A 20mg,Metoprolol,5 mg,Once daily,2022-10-13
+SUB053,Drug A 20mg,Lisinopril,10 mg,As needed,2022-10-20
+SUB053,Drug A 20mg,Lisinopril,5 mg,Twice daily,2022-07-19
+SUB054,Drug A 20mg,Metformin,200 mg,As needed,2022-06-08
+SUB055,Drug A 10mg,Metformin,20 mg,Once daily,2022-09-12
+SUB055,Drug A 10mg,Ibuprofen,5 mg,Twice daily,2022-07-01
+SUB055,Drug A 10mg,Metformin,5 mg,Once daily,2022-09-06
+SUB055,Drug A 10mg,Ibuprofen,20 mg,Three times daily,2022-07-29
+SUB055,Drug A 10mg,Acetaminophen,5 mg,Twice daily,2022-07-16
+SUB056,Drug A 20mg,Ibuprofen,10 mg,As needed,2022-11-09
+SUB056,Drug A 20mg,Ibuprofen,200 mg,Three times daily,2022-11-02
+SUB056,Drug A 20mg,Vitamin D,10 mg,As needed,2022-08-15
+SUB056,Drug A 20mg,Atorvastatin,25 mg,Three times daily,2022-11-26
+SUB057,Placebo,Metformin,50 mg,Twice daily,2022-11-12
+SUB057,Placebo,Aspirin,10 mg,Once daily,2022-06-04
+SUB058,Placebo,Omeprazole,200 mg,Three times daily,2022-11-06
+SUB058,Placebo,Omeprazole,200 mg,As needed,2022-07-28
+SUB059,Placebo,Acetaminophen,200 mg,Twice daily,2022-11-08
+SUB059,Placebo,Aspirin,50 mg,Once daily,2022-06-26
+SUB059,Placebo,Levothyroxine,10 mg,As needed,2022-07-08
+SUB061,Drug A 10mg,Lisinopril,5 mg,Twice daily,2022-07-16
+SUB062,Placebo,Vitamin D,10 mg,Twice daily,2022-08-22
+SUB062,Placebo,Vitamin D,50 mg,Once daily,2022-07-31
+SUB062,Placebo,Lisinopril,5 mg,As needed,2022-11-06
+SUB062,Placebo,Ibuprofen,20 mg,Once daily,2022-09-03
+SUB063,Drug A 20mg,Vitamin D,20 mg,Three times daily,2022-10-26
+SUB063,Drug A 20mg,Levothyroxine,5 mg,Three times daily,2022-09-28
+SUB063,Drug A 20mg,Levothyroxine,10 mg,Once daily,2022-11-02
+SUB064,Drug A 10mg,Metoprolol,200 mg,Once daily,2022-06-10
+SUB064,Drug A 10mg,Vitamin D,25 mg,Twice daily,2022-06-24
+SUB065,Placebo,Omeprazole,5 mg,Three times daily,2022-09-07
+SUB065,Placebo,Vitamin D,25 mg,Once daily,2022-06-03
+SUB066,Drug A 10mg,Ibuprofen,50 mg,Three times daily,2022-11-15
+SUB066,Drug A 10mg,Aspirin,50 mg,As needed,2022-08-07
+SUB066,Drug A 10mg,Metformin,100 mg,As needed,2022-10-02
+SUB067,Placebo,Ibuprofen,25 mg,Twice daily,2022-07-07
+SUB067,Placebo,Atorvastatin,20 mg,Once daily,2022-07-04
+SUB067,Placebo,Omeprazole,20 mg,Once daily,2022-08-01
+SUB067,Placebo,Levothyroxine,20 mg,Once daily,2022-08-28
+SUB068,Drug A 20mg,Omeprazole,200 mg,Once daily,2022-09-09
+SUB068,Drug A 20mg,Lisinopril,100 mg,As needed,2022-10-26
+SUB068,Drug A 20mg,Ibuprofen,50 mg,Three times daily,2022-09-24
+SUB069,Placebo,Vitamin D,200 mg,Once daily,2022-09-25
+SUB069,Placebo,Omeprazole,50 mg,Three times daily,2022-06-10
+SUB070,Drug A 20mg,Acetaminophen,25 mg,Once daily,2022-11-16
+SUB070,Drug A 20mg,Vitamin D,25 mg,As needed,2022-09-17
+SUB071,Drug A 20mg,Lisinopril,25 mg,Three times daily,2022-09-25
+SUB071,Drug A 20mg,Levothyroxine,200 mg,As needed,2022-07-22
+SUB071,Drug A 20mg,Vitamin D,100 mg,Once daily,2022-08-23
+SUB072,Placebo,Ibuprofen,50 mg,As needed,2022-11-18
+SUB072,Placebo,Vitamin D,5 mg,As needed,2022-06-30
+SUB074,Drug A 20mg,Metformin,5 mg,Once daily,2022-09-15
+SUB075,Drug A 20mg,Vitamin D,100 mg,Twice daily,2022-11-08
+SUB075,Drug A 20mg,Vitamin D,5 mg,Three times daily,2022-11-14
+SUB075,Drug A 20mg,Omeprazole,20 mg,Three times daily,2022-06-02
+SUB076,Drug A 20mg,Acetaminophen,200 mg,Three times daily,2022-11-11
+SUB076,Drug A 20mg,Omeprazole,50 mg,Once daily,2022-07-15
+SUB077,Drug A 20mg,Levothyroxine,20 mg,As needed,2022-06-15
+SUB077,Drug A 20mg,Aspirin,5 mg,As needed,2022-06-10
+SUB077,Drug A 20mg,Lisinopril,100 mg,As needed,2022-11-20
+SUB079,Drug A 10mg,Levothyroxine,200 mg,Twice daily,2022-06-25
+SUB079,Drug A 10mg,Lisinopril,200 mg,Twice daily,2022-06-12
+SUB079,Drug A 10mg,Aspirin,25 mg,Twice daily,2022-10-31
+SUB079,Drug A 10mg,Metformin,20 mg,As needed,2022-06-06
+SUB080,Placebo,Metoprolol,200 mg,Once daily,2022-11-25
+SUB080,Placebo,Metformin,25 mg,As needed,2022-09-04
+SUB080,Placebo,Metformin,5 mg,Once daily,2022-10-25
+SUB080,Placebo,Vitamin D,200 mg,Twice daily,2022-06-06
+SUB080,Placebo,Lisinopril,20 mg,Once daily,2022-07-12
+SUB082,Drug A 10mg,Metformin,100 mg,Twice daily,2022-07-09
+SUB084,Placebo,Ibuprofen,100 mg,As needed,2022-09-26
+SUB085,Placebo,Vitamin D,200 mg,Three times daily,2022-09-03
+SUB086,Placebo,Lisinopril,20 mg,As needed,2022-11-15
+SUB086,Placebo,Metformin,50 mg,Twice daily,2022-08-11
+SUB087,Drug A 20mg,Vitamin D,5 mg,Twice daily,2022-10-21
+SUB087,Drug A 20mg,Atorvastatin,200 mg,Once daily,2022-06-16
+SUB087,Drug A 20mg,Levothyroxine,5 mg,Three times daily,2022-10-01
+SUB088,Drug A 10mg,Atorvastatin,200 mg,Three times daily,2022-06-30
+SUB088,Drug A 10mg,Metformin,20 mg,Twice daily,2022-11-07
+SUB088,Drug A 10mg,Vitamin D,50 mg,Twice daily,2022-11-07
+SUB090,Drug A 10mg,Ibuprofen,200 mg,Three times daily,2022-07-10
+SUB090,Drug A 10mg,Aspirin,200 mg,Once daily,2022-11-11
+SUB091,Placebo,Ibuprofen,5 mg,As needed,2022-11-03
+SUB091,Placebo,Ibuprofen,10 mg,As needed,2022-08-14
+SUB091,Placebo,Atorvastatin,5 mg,Twice daily,2022-10-03
+SUB092,Drug A 20mg,Levothyroxine,100 mg,As needed,2022-08-13
+SUB092,Drug A 20mg,Omeprazole,200 mg,Twice daily,2022-11-11
+SUB092,Drug A 20mg,Metoprolol,25 mg,Twice daily,2022-10-01
+SUB092,Drug A 20mg,Metoprolol,10 mg,Three times daily,2022-11-20
+SUB094,Drug A 10mg,Aspirin,10 mg,Three times daily,2022-09-25
+SUB094,Drug A 10mg,Metoprolol,200 mg,As needed,2022-11-06
+SUB095,Drug A 20mg,Lisinopril,5 mg,Three times daily,2022-10-09
+SUB095,Drug A 20mg,Aspirin,50 mg,Once daily,2022-06-01
+SUB095,Drug A 20mg,Metoprolol,5 mg,As needed,2022-11-25
+SUB095,Drug A 20mg,Ibuprofen,100 mg,Twice daily,2022-08-20
+SUB095,Drug A 20mg,Acetaminophen,10 mg,As needed,2022-08-28
+SUB097,Drug A 10mg,Metformin,50 mg,Three times daily,2022-06-25
+SUB097,Drug A 10mg,Atorvastatin,10 mg,As needed,2022-06-25
+SUB099,Placebo,Metformin,25 mg,As needed,2022-06-26
+SUB099,Placebo,Lisinopril,5 mg,Three times daily,2022-09-11
+SUB100,Placebo,Omeprazole,20 mg,Three times daily,2022-09-02
+SUB101,Placebo,Ibuprofen,50 mg,As needed,2022-10-10
+SUB101,Placebo,Ibuprofen,200 mg,Once daily,2022-09-06
+SUB101,Placebo,Ibuprofen,25 mg,Three times daily,2022-10-23
+SUB101,Placebo,Ibuprofen,20 mg,Once daily,2022-09-05
+SUB102,Drug A 10mg,Metformin,50 mg,Once daily,2022-06-26
+SUB103,Placebo,Lisinopril,10 mg,Once daily,2022-06-27
+SUB103,Placebo,Vitamin D,5 mg,Twice daily,2022-06-11
+SUB104,Drug A 10mg,Metformin,10 mg,Once daily,2022-06-19
+SUB104,Drug A 10mg,Lisinopril,50 mg,Twice daily,2022-09-24
+SUB105,Drug A 20mg,Acetaminophen,5 mg,Once daily,2022-11-13
+SUB105,Drug A 20mg,Acetaminophen,25 mg,Once daily,2022-11-15
+SUB106,Placebo,Ibuprofen,200 mg,As needed,2022-11-07
+SUB107,Drug A 10mg,Lisinopril,50 mg,Once daily,2022-09-05
+SUB108,Drug A 20mg,Metoprolol,25 mg,Once daily,2022-06-23
+SUB108,Drug A 20mg,Atorvastatin,20 mg,Once daily,2022-11-18
+SUB108,Drug A 20mg,Acetaminophen,200 mg,Once daily,2022-08-19
+SUB108,Drug A 20mg,Acetaminophen,5 mg,Twice daily,2022-11-02
+SUB113,Drug A 20mg,Levothyroxine,200 mg,Twice daily,2022-06-05
+SUB115,Drug A 10mg,Omeprazole,100 mg,Once daily,2022-10-15
+SUB116,Drug A 20mg,Aspirin,25 mg,As needed,2022-11-23
+SUB116,Drug A 20mg,Metoprolol,50 mg,Once daily,2022-10-23
+SUB116,Drug A 20mg,Lisinopril,100 mg,Three times daily,2022-08-10
+SUB117,Drug A 20mg,Ibuprofen,10 mg,Once daily,2022-10-23
+SUB117,Drug A 20mg,Aspirin,25 mg,Twice daily,2022-11-15
+SUB117,Drug A 20mg,Omeprazole,100 mg,As needed,2022-09-01
+SUB118,Placebo,Acetaminophen,20 mg,Once daily,2022-11-10
+SUB120,Drug A 10mg,Levothyroxine,200 mg,Twice daily,2022-11-15
+SUB120,Drug A 10mg,Metoprolol,50 mg,Three times daily,2022-11-23
+SUB120,Drug A 10mg,Lisinopril,50 mg,As needed,2022-07-22
+SUB121,Drug A 20mg,Vitamin D,200 mg,Twice daily,2022-06-22
+SUB121,Drug A 20mg,Omeprazole,200 mg,Twice daily,2022-06-30
+SUB121,Drug A 20mg,Ibuprofen,100 mg,Twice daily,2022-10-24
+SUB121,Drug A 20mg,Vitamin D,200 mg,Twice daily,2022-11-01
+SUB122,Drug A 20mg,Levothyroxine,10 mg,As needed,2022-10-23
+SUB122,Drug A 20mg,Atorvastatin,200 mg,Three times daily,2022-09-29
+SUB122,Drug A 20mg,Levothyroxine,20 mg,As needed,2022-06-15
+SUB123,Placebo,Vitamin D,25 mg,Three times daily,2022-08-21
+SUB123,Placebo,Levothyroxine,100 mg,As needed,2022-08-09
+SUB123,Placebo,Levothyroxine,5 mg,Once daily,2022-06-01
+SUB125,Placebo,Lisinopril,200 mg,Once daily,2022-09-06
+SUB125,Placebo,Metformin,100 mg,Twice daily,2022-10-26
+SUB125,Placebo,Acetaminophen,5 mg,Once daily,2022-07-28
+SUB126,Drug A 10mg,Aspirin,25 mg,Twice daily,2022-11-16
+SUB126,Drug A 10mg,Lisinopril,50 mg,As needed,2022-10-13
+SUB126,Drug A 10mg,Metoprolol,200 mg,Once daily,2022-07-03
+SUB126,Drug A 10mg,Lisinopril,25 mg,Once daily,2022-09-14
+SUB126,Drug A 10mg,Ibuprofen,20 mg,Once daily,2022-08-27
+SUB129,Placebo,Acetaminophen,25 mg,As needed,2022-06-07
+SUB129,Placebo,Vitamin D,20 mg,As needed,2022-06-10
+SUB130,Drug A 10mg,Vitamin D,200 mg,Three times daily,2022-11-26
+SUB131,Drug A 10mg,Metformin,20 mg,As needed,2022-07-18
+SUB131,Drug A 10mg,Vitamin D,10 mg,As needed,2022-07-18
+SUB131,Drug A 10mg,Omeprazole,10 mg,Twice daily,2022-09-10
+SUB132,Placebo,Lisinopril,100 mg,Twice daily,2022-10-19
+SUB133,Placebo,Levothyroxine,200 mg,As needed,2022-07-25
+SUB134,Drug A 10mg,Levothyroxine,200 mg,Once daily,2022-10-04
+SUB134,Drug A 10mg,Metformin,25 mg,Twice daily,2022-07-12
+SUB135,Drug A 20mg,Metformin,100 mg,As needed,2022-10-26
+SUB135,Drug A 20mg,Omeprazole,5 mg,As needed,2022-06-14
+SUB135,Drug A 20mg,Levothyroxine,50 mg,Twice daily,2022-07-18
+SUB135,Drug A 20mg,Acetaminophen,50 mg,Twice daily,2022-06-03
+SUB136,Placebo,Lisinopril,20 mg,As needed,2022-08-27
+SUB136,Placebo,Levothyroxine,5 mg,Once daily,2022-08-13
+SUB136,Placebo,Aspirin,5 mg,Twice daily,2022-09-03
+SUB136,Placebo,Metoprolol,25 mg,Three times daily,2022-10-17
+SUB136,Placebo,Aspirin,25 mg,Twice daily,2022-08-08
+SUB136,Placebo,Lisinopril,50 mg,Once daily,2022-09-27
+SUB136,Placebo,Levothyroxine,200 mg,As needed,2022-06-27
+SUB138,Drug A 20mg,Metformin,5 mg,Three times daily,2022-06-04
+SUB138,Drug A 20mg,Omeprazole,50 mg,Three times daily,2022-10-03
+SUB139,Drug A 10mg,Atorvastatin,200 mg,Twice daily,2022-06-30
+SUB139,Drug A 10mg,Atorvastatin,5 mg,As needed,2022-09-26
+SUB139,Drug A 10mg,Lisinopril,200 mg,Three times daily,2022-10-11
+SUB140,Drug A 20mg,Levothyroxine,5 mg,Once daily,2022-09-14
+SUB141,Drug A 20mg,Vitamin D,10 mg,As needed,2022-10-15
+SUB141,Drug A 20mg,Aspirin,20 mg,Once daily,2022-10-29
+SUB141,Drug A 20mg,Vitamin D,10 mg,Twice daily,2022-07-08
+SUB141,Drug A 20mg,Levothyroxine,200 mg,Twice daily,2022-06-16
+SUB142,Placebo,Ibuprofen,200 mg,Three times daily,2022-08-25
+SUB142,Placebo,Acetaminophen,10 mg,Three times daily,2022-11-08
+SUB142,Placebo,Levothyroxine,5 mg,As needed,2022-06-15
+SUB143,Drug A 10mg,Acetaminophen,100 mg,As needed,2022-10-13
+SUB144,Placebo,Acetaminophen,100 mg,As needed,2022-07-13
+SUB144,Placebo,Lisinopril,5 mg,As needed,2022-06-03
+SUB144,Placebo,Metoprolol,10 mg,Once daily,2022-08-02
+SUB145,Placebo,Omeprazole,100 mg,Twice daily,2022-11-27
+SUB146,Placebo,Atorvastatin,100 mg,Twice daily,2022-11-10
+SUB146,Placebo,Ibuprofen,20 mg,Once daily,2022-09-23
+SUB146,Placebo,Acetaminophen,5 mg,Twice daily,2022-11-18
+SUB146,Placebo,Acetaminophen,10 mg,As needed,2022-10-13
+SUB147,Drug A 10mg,Acetaminophen,200 mg,Three times daily,2022-06-09
+SUB147,Drug A 10mg,Acetaminophen,200 mg,As needed,2022-09-24
+SUB148,Drug A 10mg,Metoprolol,50 mg,As needed,2022-10-13
+SUB149,Placebo,Acetaminophen,50 mg,As needed,2022-11-08
+SUB149,Placebo,Metformin,50 mg,Twice daily,2022-07-23
+SUB150,Placebo,Metformin,10 mg,Three times daily,2022-07-05
+SUB150,Placebo,Ibuprofen,50 mg,Three times daily,2022-06-25

@@ -1,0 +1,461 @@
+/* Clinical Trials Safety Tables - Styles */
+
+/* Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header */
+.header {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 15px;
+    padding: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+}
+
+.header h1 {
+    color: #4a5568;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.header p {
+    color: #718096;
+    font-size: 1.1em;
+    font-weight: 400;
+}
+
+.header i {
+    margin-right: 10px;
+    color: #667eea;
+}
+
+/* Main Content */
+.main-content {
+    display: grid;
+    grid-template-columns: 350px 1fr;
+    gap: 30px;
+    align-items: start;
+}
+
+/* Control Panel */
+.control-panel {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    position: sticky;
+    top: 20px;
+}
+
+.control-panel h2 {
+    color: #4a5568;
+    margin-bottom: 25px;
+    font-size: 1.5em;
+    border-bottom: 2px solid #e2e8f0;
+    padding-bottom: 10px;
+}
+
+.control-panel h2 i {
+    margin-right: 10px;
+    color: #667eea;
+}
+
+/* Form Elements */
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #4a5568;
+}
+
+.form-group label i {
+    margin-right: 8px;
+    color: #667eea;
+    width: 16px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 12px 15px;
+    border: 2px solid #e2e8f0;
+    border-radius: 10px;
+    font-size: 14px;
+    background: white;
+    transition: all 0.3s ease;
+}
+
+.form-control:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+select.form-control {
+    cursor: pointer;
+}
+
+select[multiple] {
+    min-height: 100px;
+}
+
+/* Filters Section */
+.filters-section {
+    margin: 25px 0;
+    padding: 20px;
+    background: #f7fafc;
+    border-radius: 10px;
+    border-left: 4px solid #667eea;
+}
+
+.filters-section h3 {
+    color: #4a5568;
+    margin-bottom: 20px;
+    font-size: 1.2em;
+}
+
+.filters-section h3 i {
+    margin-right: 10px;
+    color: #667eea;
+}
+
+.filter-grid {
+    display: grid;
+    gap: 15px;
+}
+
+.age-range {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.age-range .form-control {
+    flex: 1;
+}
+
+.age-separator {
+    color: #718096;
+    font-weight: 500;
+}
+
+/* Buttons */
+.btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 14px;
+    gap: 8px;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    width: 100%;
+    justify-content: center;
+    font-size: 16px;
+    padding: 15px 24px;
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px rgba(102, 126, 234, 0.3);
+}
+
+.btn-secondary {
+    background: #e2e8f0;
+    color: #4a5568;
+    border: 1px solid #cbd5e0;
+}
+
+.btn-secondary:hover {
+    background: #cbd5e0;
+    transform: translateY(-1px);
+}
+
+/* Results Section */
+.results-section {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    min-height: 600px;
+}
+
+/* Welcome Message */
+.welcome-message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    text-align: center;
+}
+
+.welcome-content i {
+    color: #cbd5e0;
+    margin-bottom: 20px;
+}
+
+.welcome-content h2 {
+    color: #4a5568;
+    margin-bottom: 15px;
+    font-size: 2em;
+}
+
+.welcome-content p {
+    color: #718096;
+    font-size: 1.1em;
+    margin-bottom: 30px;
+}
+
+.available-tables {
+    text-align: left;
+    background: #f7fafc;
+    padding: 25px;
+    border-radius: 10px;
+    border-left: 4px solid #667eea;
+    max-width: 600px;
+}
+
+.available-tables h3 {
+    color: #4a5568;
+    margin-bottom: 15px;
+}
+
+.available-tables ul {
+    list-style: none;
+}
+
+.available-tables li {
+    margin-bottom: 10px;
+    padding: 8px 0;
+}
+
+.available-tables li strong {
+    color: #667eea;
+}
+
+/* Loading Spinner */
+.loading-spinner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+
+.spinner {
+    width: 40px;
+    height: 40px;
+    border: 4px solid #e2e8f0;
+    border-top: 4px solid #667eea;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-bottom: 20px;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Error Message */
+.error-message {
+    background: #fed7d7;
+    color: #c53030;
+    padding: 20px;
+    border-radius: 10px;
+    border-left: 4px solid #e53e3e;
+    margin-bottom: 20px;
+}
+
+.error-message i {
+    margin-right: 10px;
+}
+
+/* Clinical Tables */
+.clinical-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+}
+
+.clinical-table th {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 15px 12px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.clinical-table td {
+    padding: 12px;
+    border-bottom: 1px solid #e2e8f0;
+    font-size: 14px;
+    vertical-align: top;
+}
+
+.clinical-table tr:hover {
+    background: #f7fafc;
+}
+
+.clinical-table tr:last-child td {
+    border-bottom: none;
+}
+
+.table-title {
+    color: #4a5568;
+    font-size: 1.5em;
+    margin-bottom: 8px;
+    font-weight: 700;
+}
+
+.table-subtitle {
+    color: #718096;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+/* Export Options */
+.export-options {
+    margin-top: 30px;
+    padding: 20px;
+    background: #f7fafc;
+    border-radius: 10px;
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 14px;
+}
+
+/* Responsive Design */
+@media (max-width: 1200px) {
+    .main-content {
+        grid-template-columns: 300px 1fr;
+        gap: 20px;
+    }
+}
+
+@media (max-width: 992px) {
+    .main-content {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    
+    .control-panel {
+        position: static;
+    }
+    
+    .export-options {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+    
+    .header {
+        padding: 20px;
+    }
+    
+    .header h1 {
+        font-size: 1.8em;
+    }
+    
+    .control-panel {
+        padding: 20px;
+    }
+    
+    .results-section {
+        padding: 20px;
+    }
+    
+    .export-options {
+        flex-direction: column;
+    }
+    
+    .clinical-table {
+        font-size: 12px;
+    }
+    
+    .clinical-table th,
+    .clinical-table td {
+        padding: 8px 6px;
+    }
+}
+
+/* Print Styles */
+@media print {
+    body {
+        background: white !important;
+    }
+    
+    .control-panel,
+    .export-options,
+    .footer {
+        display: none !important;
+    }
+    
+    .main-content {
+        display: block !important;
+    }
+    
+    .results-section {
+        box-shadow: none !important;
+        padding: 0 !important;
+        background: white !important;
+    }
+    
+    .clinical-table {
+        break-inside: avoid;
+    }
+}

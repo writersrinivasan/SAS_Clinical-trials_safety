@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clinical Trials Safety Tables Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1><i class="fas fa-chart-line"></i> Clinical Trials Safety Tables</h1>
+                <p>Generate professional safety and efficacy tables from clinical trial datasets</p>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Control Panel -->
+            <div class="control-panel">
+                <h2><i class="fas fa-cogs"></i> Table Generation</h2>
+                
+                <!-- Table Type Selection -->
+                <div class="form-group">
+                    <label for="tableType"><i class="fas fa-table"></i> Table Type:</label>
+                    <select id="tableType" class="form-control">
+                        <option value="">Select a table type...</option>
+                    </select>
+                </div>
+
+                <!-- Filters Section -->
+                <div class="filters-section">
+                    <h3><i class="fas fa-filter"></i> Filters</h3>
+                    
+                    <div class="filter-grid">
+                        <!-- Treatment Filter -->
+                        <div class="form-group">
+                            <label for="treatmentFilter">Treatment Groups:</label>
+                            <select id="treatmentFilter" class="form-control" multiple>
+                                <option value="Placebo">Placebo</option>
+                                <option value="Drug A 10mg">Drug A 10mg</option>
+                                <option value="Drug A 20mg">Drug A 20mg</option>
+                            </select>
+                        </div>
+
+                        <!-- Gender Filter -->
+                        <div class="form-group">
+                            <label for="genderFilter">Gender:</label>
+                            <select id="genderFilter" class="form-control" multiple>
+                                <option value="M">Male</option>
+                                <option value="F">Female</option>
+                            </select>
+                        </div>
+
+                        <!-- Age Range Filter -->
+                        <div class="form-group">
+                            <label for="ageMinFilter">Age Range:</label>
+                            <div class="age-range">
+                                <input type="number" id="ageMinFilter" class="form-control" placeholder="Min age" min="18" max="100">
+                                <span class="age-separator">to</span>
+                                <input type="number" id="ageMaxFilter" class="form-control" placeholder="Max age" min="18" max="100">
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Clear Filters Button -->
+                    <button id="clearFilters" class="btn btn-secondary">
+                        <i class="fas fa-times"></i> Clear Filters
+                    </button>
+                </div>
+
+                <!-- Generate Button -->
+                <button id="generateTable" class="btn btn-primary">
+                    <i class="fas fa-play"></i> Generate Table
+                </button>
+            </div>
+
+            <!-- Results Section -->
+            <div class="results-section">
+                <div id="loadingSpinner" class="loading-spinner" style="display: none;">
+                    <div class="spinner"></div>
+                    <p>Generating table...</p>
+                </div>
+
+                <div id="errorMessage" class="error-message" style="display: none;">
+                    <i class="fas fa-exclamation-triangle"></i>
+                    <span id="errorText"></span>
+                </div>
+
+                <div id="tableContainer" class="table-container">
+                    <div class="welcome-message">
+                        <div class="welcome-content">
+                            <i class="fas fa-table fa-3x"></i>
+                            <h2>Welcome to Clinical Trials Safety Tables Generator</h2>
+                            <p>Select a table type above to generate professional clinical trial reports</p>
+                            
+                            <div class="available-tables">
+                                <h3>Available Table Types:</h3>
+                                <ul>
+                                    <li><strong>Adverse Events Summary:</strong> Safety overview by treatment group</li>
+                                    <li><strong>Demographics Table:</strong> Baseline characteristics</li>
+                                    <li><strong>Vital Signs Summary:</strong> Vital signs by visit and treatment</li>
+                                    <li><strong>Laboratory Values:</strong> Lab results summary</li>
+                                    <li><strong>Concomitant Medications:</strong> Concurrent medication usage</li>
+                                    <li><strong>Subject Disposition:</strong> Study completion status</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Export Options -->
+                <div id="exportOptions" class="export-options" style="display: none;">
+                    <button id="exportHTML" class="btn btn-secondary">
+                        <i class="fas fa-file-code"></i> Export HTML
+                    </button>
+                    <button id="exportCSV" class="btn btn-secondary">
+                        <i class="fas fa-file-csv"></i> Export CSV
+                    </button>
+                    <button id="printTable" class="btn btn-secondary">
+                        <i class="fas fa-print"></i> Print
+                    </button>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>&copy; 2024 Clinical Trials Safety Tables Generator | Built for SAS Programmers</p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

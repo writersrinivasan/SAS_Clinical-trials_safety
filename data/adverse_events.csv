@@ -1,0 +1,194 @@
+SUBJID,TRT,AETERM,AESEV,AEREL,AESTDT,AEENDT,AEOUT
+SUB002,Drug A 20mg,Hypertension,Mild,Not Related,2023-06-07,2023-02-08,Recovered
+SUB002,Drug A 20mg,Fatigue,Mild,Probably Related,2023-01-12,2023-10-22,Recovered
+SUB004,Drug A 10mg,Back pain,Mild,Possibly Related,2023-12-10,2023-12-31,Recovering
+SUB006,Placebo,Nausea,Mild,Possibly Related,2023-08-10,2023-02-06,Recovered
+SUB007,Placebo,Vomiting,Moderate,Probably Related,2023-07-12,2023-01-22,Recovering
+SUB007,Placebo,Rash,Moderate,Definitely Related,2023-10-12,2023-07-23,Recovering
+SUB009,Drug A 10mg,Anxiety,Moderate,Not Related,2023-02-27,2023-01-26,Recovered
+SUB010,Drug A 20mg,Upper respiratory tract infection,Mild,Probably Related,2023-06-06,2023-03-16,Recovered
+SUB010,Drug A 20mg,Nausea,Moderate,Not Related,2023-01-27,2023-07-14,Unknown
+SUB012,Drug A 20mg,Constipation,Moderate,Possibly Related,2023-09-14,2023-02-27,Not Recovered
+SUB012,Drug A 20mg,Dry mouth,Moderate,Not Related,2023-10-08,2023-10-07,Recovered
+SUB012,Drug A 20mg,Dry mouth,Mild,Possibly Related,2023-03-01,2023-05-25,Recovered
+SUB014,Placebo,Insomnia,Moderate,Not Related,2023-06-30,2023-01-24,Not Recovered
+SUB015,Placebo,Cough,Mild,Possibly Related,2023-12-06,2023-08-16,Recovered
+SUB015,Placebo,Abdominal pain,Mild,Not Related,2023-04-27,2023-12-10,Recovered
+SUB016,Placebo,Rash,Moderate,Not Related,2023-04-05,2023-06-15,Recovered
+SUB017,Placebo,Fever,Mild,Not Related,2023-02-15,2023-06-09,Recovered
+SUB017,Placebo,Headache,Mild,Not Related,2023-12-19,2023-01-02,Recovered
+SUB017,Placebo,Upper respiratory tract infection,Mild,Not Related,2023-04-26,2023-06-03,Recovered
+SUB019,Drug A 10mg,Depression,Mild,Possibly Related,2023-05-03,2023-01-09,Not Recovered
+SUB019,Drug A 10mg,Insomnia,Moderate,Not Related,2023-07-23,2023-09-21,Not Recovered
+SUB019,Drug A 10mg,Dry mouth,Moderate,Not Related,2023-03-25,2023-07-27,Recovered
+SUB020,Placebo,Dizziness,Mild,Not Related,2023-01-14,2023-01-12,Recovered
+SUB022,Placebo,Cough,Mild,Not Related,2023-04-29,2023-11-05,Recovering
+SUB023,Placebo,Rash,Moderate,Not Related,2023-11-08,2023-12-27,Recovered
+SUB025,Drug A 10mg,Dry mouth,Mild,Possibly Related,2023-12-16,2023-08-01,Recovering
+SUB026,Drug A 20mg,Depression,Moderate,Possibly Related,2023-02-19,2023-06-26,Recovered
+SUB026,Drug A 20mg,Upper respiratory tract infection,Mild,Probably Related,2023-08-16,2023-03-07,Recovered
+SUB027,Placebo,Depression,Mild,Possibly Related,2023-01-21,2023-08-13,Recovered
+SUB027,Placebo,Back pain,Mild,Possibly Related,2023-10-25,2023-01-14,Unknown
+SUB027,Placebo,Diarrhea,Moderate,Possibly Related,2023-11-14,2023-11-12,Recovered
+SUB028,Drug A 10mg,Insomnia,Mild,Not Related,2023-01-28,2023-03-07,Not Recovered
+SUB028,Drug A 10mg,Diarrhea,Mild,Probably Related,2023-06-13,2023-10-28,Recovered
+SUB030,Placebo,Abdominal pain,Mild,Not Related,2023-12-16,2023-12-27,Recovered
+SUB032,Placebo,Anxiety,Moderate,Possibly Related,2023-06-14,2023-11-01,Not Recovered
+SUB033,Placebo,Depression,Mild,Not Related,2023-11-30,2023-05-10,Recovered
+SUB033,Placebo,Diarrhea,Severe,Not Related,2023-04-29,2023-02-04,Recovered
+SUB034,Drug A 20mg,Cough,Moderate,Not Related,2023-08-30,2023-08-04,Recovering
+SUB034,Drug A 20mg,Nausea,Mild,Definitely Related,2023-02-08,2023-08-11,Recovered
+SUB035,Drug A 20mg,Muscle spasms,Mild,Definitely Related,2023-01-08,2023-12-07,Recovered
+SUB035,Drug A 20mg,Back pain,Mild,Not Related,2023-03-27,2023-06-24,Recovering
+SUB036,Drug A 20mg,Back pain,Moderate,Not Related,2023-12-11,2023-10-29,Not Recovered
+SUB036,Drug A 20mg,Headache,Mild,Possibly Related,2023-02-22,2023-10-31,Recovering
+SUB036,Drug A 20mg,Nausea,Severe,Not Related,2023-03-14,2023-06-10,Recovered
+SUB036,Drug A 20mg,Abdominal pain,Moderate,Not Related,2023-06-08,2023-11-20,Recovering
+SUB036,Drug A 20mg,Constipation,Mild,Possibly Related,2023-03-23,2023-10-06,Recovered
+SUB037,Placebo,Insomnia,Mild,Not Related,2023-03-17,2023-07-18,Recovered
+SUB039,Drug A 20mg,Constipation,Mild,Possibly Related,2023-04-20,2023-11-26,Recovering
+SUB039,Drug A 20mg,Upper respiratory tract infection,Mild,Probably Related,2023-10-31,2023-04-27,Not Recovered
+SUB039,Drug A 20mg,Depression,Mild,Possibly Related,2023-10-27,2023-08-16,Recovering
+SUB040,Drug A 10mg,Anxiety,Mild,Possibly Related,2023-05-04,2023-10-08,Recovering
+SUB040,Drug A 10mg,Fever,Mild,Definitely Related,2023-10-02,2023-10-17,Recovered
+SUB040,Drug A 10mg,Fatigue,Mild,Not Related,2023-01-27,2023-06-06,Not Recovered
+SUB040,Drug A 10mg,Dizziness,Mild,Not Related,2023-06-07,2023-05-26,Recovered
+SUB041,Placebo,Insomnia,Moderate,Not Related,2023-06-08,2023-03-12,Recovered
+SUB041,Placebo,Vomiting,Mild,Not Related,2023-02-05,2023-03-25,Recovered
+SUB042,Drug A 10mg,Hypertension,Mild,Not Related,2023-04-28,2023-10-04,Not Recovered
+SUB042,Drug A 10mg,Upper respiratory tract infection,Moderate,Possibly Related,2023-05-01,2023-05-05,Not Recovered
+SUB043,Placebo,Diarrhea,Mild,Probably Related,2023-04-10,2023-03-01,Recovering
+SUB044,Drug A 20mg,Rash,Mild,Not Related,2023-04-18,2023-08-14,Recovered
+SUB044,Drug A 20mg,Vomiting,Mild,Not Related,2023-06-09,2023-01-11,Recovered
+SUB046,Drug A 20mg,Rash,Mild,Possibly Related,2023-06-16,2023-08-29,Recovered
+SUB046,Drug A 20mg,Cough,Mild,Probably Related,2023-02-11,2023-10-15,Recovered
+SUB046,Drug A 20mg,Cough,Mild,Possibly Related,2023-06-13,2023-03-14,Recovered
+SUB048,Drug A 10mg,Vomiting,Moderate,Possibly Related,2023-01-27,2023-06-09,Recovered
+SUB049,Drug A 10mg,Dizziness,Mild,Not Related,2023-06-21,2023-09-15,Recovered
+SUB049,Drug A 10mg,Dizziness,Moderate,Possibly Related,2023-09-21,2023-05-30,Recovered
+SUB049,Drug A 10mg,Fatigue,Severe,Possibly Related,2023-10-30,2023-11-07,Recovered
+SUB051,Drug A 20mg,Depression,Severe,Possibly Related,2023-01-30,2023-08-25,Recovered
+SUB051,Drug A 20mg,Fever,Mild,Definitely Related,2023-12-26,2023-09-05,Recovered
+SUB052,Drug A 20mg,Insomnia,Moderate,Possibly Related,2023-02-07,2023-08-14,Recovered
+SUB052,Drug A 20mg,Fatigue,Mild,Not Related,2023-03-07,2023-12-27,Recovered
+SUB052,Drug A 20mg,Upper respiratory tract infection,Mild,Probably Related,2023-07-09,2023-06-03,Recovering
+SUB053,Drug A 20mg,Dry mouth,Mild,Possibly Related,2023-10-18,2023-06-07,Not Recovered
+SUB053,Drug A 20mg,Cough,Moderate,Probably Related,2023-01-14,2023-03-14,Recovered
+SUB053,Drug A 20mg,Dizziness,Mild,Possibly Related,2023-07-25,2023-10-03,Recovered
+SUB053,Drug A 20mg,Hypertension,Moderate,Not Related,2023-11-06,2023-10-16,Not Recovered
+SUB053,Drug A 20mg,Cough,Mild,Probably Related,2023-08-26,2023-01-25,Recovering
+SUB055,Drug A 10mg,Dry mouth,Severe,Possibly Related,2023-10-15,2023-05-08,Recovered
+SUB056,Drug A 20mg,Rash,Mild,Probably Related,2023-06-09,2023-12-15,Recovered
+SUB057,Placebo,Fever,Mild,Not Related,2023-12-11,2023-05-10,Recovered
+SUB058,Placebo,Fever,Mild,Not Related,2023-06-05,2023-07-09,Recovered
+SUB058,Placebo,Insomnia,Moderate,Not Related,2023-09-17,2023-09-17,Unknown
+SUB059,Placebo,Fatigue,Mild,Possibly Related,2023-03-04,2023-04-26,Recovered
+SUB059,Placebo,Dizziness,Mild,Possibly Related,2023-01-14,2023-08-17,Recovered
+SUB060,Placebo,Constipation,Mild,Probably Related,2023-11-10,2023-03-06,Recovered
+SUB061,Drug A 10mg,Diarrhea,Severe,Possibly Related,2023-07-07,2023-07-10,Recovered
+SUB061,Drug A 10mg,Fatigue,Moderate,Not Related,2023-03-23,2023-08-20,Not Recovered
+SUB062,Placebo,Hypertension,Moderate,Definitely Related,2023-01-17,2023-04-30,Recovered
+SUB062,Placebo,Headache,Moderate,Not Related,2023-04-07,2023-01-10,Not Recovered
+SUB063,Drug A 20mg,Nausea,Mild,Possibly Related,2023-03-20,2023-12-09,Recovered
+SUB063,Drug A 20mg,Fever,Mild,Definitely Related,2023-03-28,2023-04-11,Recovered
+SUB065,Placebo,Dizziness,Mild,Definitely Related,2023-10-04,2023-08-20,Recovered
+SUB065,Placebo,Cough,Severe,Definitely Related,2023-07-30,2023-01-28,Recovered
+SUB066,Drug A 10mg,Back pain,Mild,Not Related,2023-08-08,2023-12-03,Recovered
+SUB067,Placebo,Rash,Mild,Not Related,2023-11-20,2023-03-19,Recovered
+SUB067,Placebo,Rash,Mild,Not Related,2023-12-13,2023-09-15,Recovering
+SUB068,Drug A 20mg,Dry mouth,Mild,Possibly Related,2023-06-02,2023-11-11,Recovered
+SUB068,Drug A 20mg,Rash,Severe,Not Related,2023-08-01,2023-06-21,Recovered
+SUB068,Drug A 20mg,Cough,Mild,Definitely Related,2023-05-02,2023-02-01,Recovered
+SUB068,Drug A 20mg,Insomnia,Moderate,Definitely Related,2023-01-18,2023-05-29,Recovering
+SUB069,Placebo,Back pain,Mild,Not Related,2023-08-12,2023-07-22,Recovered
+SUB070,Drug A 20mg,Muscle spasms,Mild,Not Related,2023-10-10,2023-02-19,Recovered
+SUB070,Drug A 20mg,Fever,Mild,Not Related,2023-10-05,2023-06-20,Recovering
+SUB071,Drug A 20mg,Insomnia,Mild,Probably Related,2023-08-17,2023-04-21,Recovered
+SUB071,Drug A 20mg,Abdominal pain,Moderate,Probably Related,2023-01-03,2023-04-14,Recovered
+SUB072,Placebo,Cough,Moderate,Not Related,2023-04-22,2023-01-13,Recovered
+SUB072,Placebo,Fatigue,Mild,Probably Related,2023-02-23,2023-01-12,Recovering
+SUB074,Drug A 20mg,Fever,Moderate,Possibly Related,2023-07-30,2023-04-11,Recovered
+SUB074,Drug A 20mg,Dry mouth,Mild,Probably Related,2023-01-24,2023-08-15,Recovered
+SUB075,Drug A 20mg,Insomnia,Mild,Possibly Related,2023-09-17,2023-07-07,Recovering
+SUB077,Drug A 20mg,Abdominal pain,Mild,Probably Related,2023-09-11,2023-01-24,Recovering
+SUB077,Drug A 20mg,Rash,Moderate,Not Related,2023-11-01,2023-11-15,Recovered
+SUB077,Drug A 20mg,Muscle spasms,Moderate,Definitely Related,2023-04-27,2023-12-22,Recovered
+SUB081,Drug A 20mg,Vomiting,Mild,Probably Related,2023-11-09,2023-04-28,Recovering
+SUB082,Drug A 10mg,Abdominal pain,Mild,Possibly Related,2023-02-16,2023-03-19,Recovering
+SUB083,Drug A 10mg,Hypertension,Mild,Not Related,2023-04-23,2023-12-16,Not Recovered
+SUB083,Drug A 10mg,Muscle spasms,Moderate,Definitely Related,2023-02-20,2023-09-02,Recovered
+SUB084,Placebo,Diarrhea,Moderate,Not Related,2023-02-18,2023-03-15,Not Recovered
+SUB085,Placebo,Insomnia,Severe,Definitely Related,2023-10-07,2023-11-09,Recovered
+SUB087,Drug A 20mg,Fatigue,Mild,Not Related,2023-04-16,2023-12-08,Recovered
+SUB089,Drug A 20mg,Hypertension,Moderate,Not Related,2023-11-25,2023-10-28,Not Recovered
+SUB089,Drug A 20mg,Anxiety,Mild,Definitely Related,2023-01-21,2023-07-15,Recovered
+SUB090,Drug A 10mg,Dry mouth,Mild,Possibly Related,2023-05-28,2023-05-23,Not Recovered
+SUB092,Drug A 20mg,Diarrhea,Mild,Possibly Related,2023-12-11,2023-12-07,Recovering
+SUB092,Drug A 20mg,Upper respiratory tract infection,Mild,Probably Related,2023-11-23,2023-03-27,Recovered
+SUB092,Drug A 20mg,Vomiting,Severe,Not Related,2023-01-28,2023-02-12,Recovered
+SUB092,Drug A 20mg,Vomiting,Mild,Not Related,2023-07-17,2023-04-08,Recovered
+SUB092,Drug A 20mg,Diarrhea,Severe,Probably Related,2023-03-07,2023-11-26,Recovered
+SUB093,Drug A 20mg,Dry mouth,Mild,Probably Related,2023-05-18,2023-04-09,Recovered
+SUB093,Drug A 20mg,Vomiting,Mild,Not Related,2023-01-20,2023-06-03,Recovered
+SUB094,Drug A 10mg,Dry mouth,Moderate,Probably Related,2023-06-17,2023-02-27,Recovering
+SUB094,Drug A 10mg,Vomiting,Mild,Not Related,2023-09-11,2023-02-13,Recovered
+SUB095,Drug A 20mg,Rash,Mild,Possibly Related,2023-09-24,2023-09-25,Recovered
+SUB097,Drug A 10mg,Upper respiratory tract infection,Mild,Definitely Related,2023-04-14,2023-07-29,Recovered
+SUB097,Drug A 10mg,Constipation,Moderate,Not Related,2023-12-31,2023-09-16,Not Recovered
+SUB099,Placebo,Back pain,Moderate,Possibly Related,2023-04-17,2023-04-11,Recovered
+SUB100,Placebo,Upper respiratory tract infection,Moderate,Possibly Related,2023-01-16,2023-05-09,Recovered
+SUB101,Placebo,Fatigue,Severe,Definitely Related,2023-02-28,2023-09-04,Recovered
+SUB101,Placebo,Diarrhea,Mild,Possibly Related,2023-10-08,2023-06-03,Recovered
+SUB102,Drug A 10mg,Upper respiratory tract infection,Moderate,Possibly Related,2023-07-30,2023-03-01,Recovered
+SUB103,Placebo,Depression,Mild,Not Related,2023-05-11,2023-03-17,Recovered
+SUB105,Drug A 20mg,Dizziness,Mild,Not Related,2023-12-04,2023-11-10,Recovering
+SUB105,Drug A 20mg,Abdominal pain,Mild,Probably Related,2023-04-18,2023-05-19,Not Recovered
+SUB108,Drug A 20mg,Dizziness,Moderate,Not Related,2023-07-20,2023-05-28,Recovered
+SUB109,Placebo,Dizziness,Moderate,Possibly Related,2023-10-21,2023-05-23,Recovered
+SUB112,Placebo,Dizziness,Mild,Probably Related,2023-04-25,2023-08-13,Not Recovered
+SUB112,Placebo,Nausea,Mild,Possibly Related,2023-04-10,2023-11-24,Recovered
+SUB112,Placebo,Fever,Severe,Not Related,2023-03-25,2023-10-08,Recovered
+SUB114,Drug A 20mg,Fever,Severe,Probably Related,2023-10-02,2023-07-20,Not Recovered
+SUB115,Drug A 10mg,Fever,Moderate,Not Related,2023-11-13,2023-06-13,Recovered
+SUB115,Drug A 10mg,Upper respiratory tract infection,Mild,Possibly Related,2023-03-30,2023-05-22,Recovered
+SUB115,Drug A 10mg,Dizziness,Mild,Probably Related,2023-02-10,2023-07-15,Recovered
+SUB116,Drug A 20mg,Abdominal pain,Mild,Probably Related,2023-06-07,2023-09-25,Recovered
+SUB116,Drug A 20mg,Cough,Moderate,Possibly Related,2023-11-21,2023-10-31,Not Recovered
+SUB116,Drug A 20mg,Dizziness,Mild,Probably Related,2023-07-20,2023-11-20,Not Recovered
+SUB118,Placebo,Dry mouth,Mild,Definitely Related,2023-06-23,2023-02-16,Recovered
+SUB119,Drug A 20mg,Back pain,Severe,Possibly Related,2023-06-06,2023-06-28,Recovered
+SUB120,Drug A 10mg,Depression,Mild,Possibly Related,2023-07-13,2023-06-11,Recovered
+SUB121,Drug A 20mg,Rash,Mild,Possibly Related,2023-08-06,2023-10-10,Recovered
+SUB121,Drug A 20mg,Hypertension,Severe,Not Related,2023-08-29,2023-12-21,Recovered
+SUB122,Drug A 20mg,Muscle spasms,Mild,Probably Related,2023-07-09,2023-05-16,Recovered
+SUB122,Drug A 20mg,Headache,Mild,Probably Related,2023-07-11,2023-11-14,Recovered
+SUB125,Placebo,Vomiting,Mild,Not Related,2023-07-02,2023-02-10,Recovered
+SUB126,Drug A 10mg,Anxiety,Mild,Not Related,2023-01-01,2023-06-17,Recovered
+SUB127,Drug A 20mg,Abdominal pain,Mild,Probably Related,2023-09-07,2023-01-08,Not Recovered
+SUB127,Drug A 20mg,Cough,Mild,Not Related,2023-08-03,2023-06-26,Recovering
+SUB127,Drug A 20mg,Rash,Mild,Possibly Related,2023-06-10,2023-05-07,Recovering
+SUB129,Placebo,Vomiting,Mild,Not Related,2023-05-23,2023-02-10,Not Recovered
+SUB130,Drug A 10mg,Anxiety,Mild,Possibly Related,2023-02-20,2023-04-28,Recovered
+SUB130,Drug A 10mg,Insomnia,Moderate,Probably Related,2023-06-04,2023-04-27,Not Recovered
+SUB132,Placebo,Vomiting,Moderate,Possibly Related,2023-08-23,2023-11-17,Recovered
+SUB134,Drug A 10mg,Constipation,Moderate,Possibly Related,2023-05-26,2023-04-09,Recovered
+SUB134,Drug A 10mg,Upper respiratory tract infection,Mild,Probably Related,2023-07-07,2023-12-30,Recovering
+SUB135,Drug A 20mg,Abdominal pain,Mild,Not Related,2023-04-28,2023-04-10,Recovered
+SUB135,Drug A 20mg,Insomnia,Mild,Not Related,2023-01-07,2023-07-15,Recovered
+SUB135,Drug A 20mg,Headache,Mild,Not Related,2023-06-06,2023-07-21,Recovering
+SUB135,Drug A 20mg,Dizziness,Mild,Not Related,2023-05-06,2023-11-01,Recovered
+SUB136,Placebo,Depression,Mild,Not Related,2023-04-23,2023-12-31,Unknown
+SUB136,Placebo,Dizziness,Severe,Not Related,2023-06-04,2023-12-29,Recovered
+SUB139,Drug A 10mg,Diarrhea,Moderate,Not Related,2023-05-04,2023-12-23,Recovered
+SUB139,Drug A 10mg,Constipation,Moderate,Probably Related,2023-10-12,2023-03-18,Recovering
+SUB142,Placebo,Muscle spasms,Mild,Probably Related,2023-12-09,2023-02-11,Not Recovered
+SUB142,Placebo,Muscle spasms,Mild,Not Related,2023-01-21,2023-10-27,Not Recovered
+SUB142,Placebo,Fatigue,Mild,Possibly Related,2023-10-07,2023-05-05,Recovered
+SUB143,Drug A 10mg,Vomiting,Moderate,Not Related,2023-08-02,2023-09-06,Recovering
+SUB143,Drug A 10mg,Fever,Mild,Not Related,2023-10-11,2023-01-05,Recovered
+SUB144,Placebo,Nausea,Moderate,Possibly Related,2023-05-20,2023-09-03,Recovered
+SUB145,Placebo,Vomiting,Moderate,Possibly Related,2023-01-12,2023-03-11,Recovered
+SUB146,Placebo,Constipation,Mild,Not Related,2023-04-12,2023-03-16,Recovered
+SUB146,Placebo,Dry mouth,Moderate,Definitely Related,2023-08-30,2023-06-28,Not Recovered
+SUB147,Drug A 10mg,Dry mouth,Moderate,Possibly Related,2023-12-31,2023-06-12,Recovered
+SUB149,Placebo,Vomiting,Mild,Not Related,2023-03-04,2023-10-21,Recovered

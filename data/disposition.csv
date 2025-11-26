@@ -1,0 +1,151 @@
+SUBJID,TRT,DSDECOD,DSTERM
+SUB001,Drug A 10mg,Completed,Study Completion
+SUB002,Drug A 20mg,Discontinued,Adverse Event
+SUB003,Drug A 20mg,Completed,Study Completion
+SUB004,Drug A 10mg,Completed,Study Completion
+SUB005,Placebo,Completed,Study Completion
+SUB006,Placebo,Completed,Study Completion
+SUB007,Placebo,Completed,Study Completion
+SUB008,Drug A 20mg,Completed,Study Completion
+SUB009,Drug A 10mg,Completed,Study Completion
+SUB010,Drug A 20mg,Discontinued,Withdrawal of Consent
+SUB011,Placebo,Discontinued,Protocol Violation
+SUB012,Drug A 20mg,Completed,Study Completion
+SUB013,Drug A 20mg,Discontinued,Lost to Follow-up
+SUB014,Placebo,Discontinued,Adverse Event
+SUB015,Placebo,Completed,Study Completion
+SUB016,Placebo,Completed,Study Completion
+SUB017,Placebo,Completed,Study Completion
+SUB018,Drug A 10mg,Discontinued,Lost to Follow-up
+SUB019,Drug A 10mg,Completed,Study Completion
+SUB020,Placebo,Completed,Study Completion
+SUB021,Drug A 10mg,Completed,Study Completion
+SUB022,Placebo,Completed,Study Completion
+SUB023,Placebo,Completed,Study Completion
+SUB024,Drug A 10mg,Completed,Study Completion
+SUB025,Drug A 10mg,Completed,Study Completion
+SUB026,Drug A 20mg,Completed,Study Completion
+SUB027,Placebo,Completed,Study Completion
+SUB028,Drug A 10mg,Completed,Study Completion
+SUB029,Drug A 10mg,Completed,Study Completion
+SUB030,Placebo,Completed,Study Completion
+SUB031,Drug A 10mg,Completed,Study Completion
+SUB032,Placebo,Discontinued,Lost to Follow-up
+SUB033,Placebo,Completed,Study Completion
+SUB034,Drug A 20mg,Completed,Study Completion
+SUB035,Drug A 20mg,Discontinued,Withdrawal of Consent
+SUB036,Drug A 20mg,Completed,Study Completion
+SUB037,Placebo,Completed,Study Completion
+SUB038,Placebo,Completed,Study Completion
+SUB039,Drug A 20mg,Completed,Study Completion
+SUB040,Drug A 10mg,Completed,Study Completion
+SUB041,Placebo,Completed,Study Completion
+SUB042,Drug A 10mg,Completed,Study Completion
+SUB043,Placebo,Discontinued,Lost to Follow-up
+SUB044,Drug A 20mg,Completed,Study Completion
+SUB045,Placebo,Completed,Study Completion
+SUB046,Drug A 20mg,Completed,Study Completion
+SUB047,Placebo,Discontinued,Adverse Event
+SUB048,Drug A 10mg,Discontinued,Adverse Event
+SUB049,Drug A 10mg,Completed,Study Completion
+SUB050,Placebo,Completed,Study Completion
+SUB051,Drug A 20mg,Completed,Study Completion
+SUB052,Drug A 20mg,Discontinued,Withdrawal of Consent
+SUB053,Drug A 20mg,Completed,Study Completion
+SUB054,Drug A 20mg,Discontinued,Adverse Event
+SUB055,Drug A 10mg,Discontinued,Withdrawal of Consent
+SUB056,Drug A 20mg,Completed,Study Completion
+SUB057,Placebo,Completed,Study Completion
+SUB058,Placebo,Completed,Study Completion
+SUB059,Placebo,Completed,Study Completion
+SUB060,Placebo,Completed,Study Completion
+SUB061,Drug A 10mg,Completed,Study Completion
+SUB062,Placebo,Completed,Study Completion
+SUB063,Drug A 20mg,Completed,Study Completion
+SUB064,Drug A 10mg,Discontinued,Adverse Event
+SUB065,Placebo,Completed,Study Completion
+SUB066,Drug A 10mg,Completed,Study Completion
+SUB067,Placebo,Completed,Study Completion
+SUB068,Drug A 20mg,Discontinued,Withdrawal of Consent
+SUB069,Placebo,Completed,Study Completion
+SUB070,Drug A 20mg,Completed,Study Completion
+SUB071,Drug A 20mg,Completed,Study Completion
+SUB072,Placebo,Completed,Study Completion
+SUB073,Placebo,Completed,Study Completion
+SUB074,Drug A 20mg,Discontinued,Withdrawal of Consent
+SUB075,Drug A 20mg,Discontinued,Adverse Event
+SUB076,Drug A 20mg,Discontinued,Adverse Event
+SUB077,Drug A 20mg,Completed,Study Completion
+SUB078,Placebo,Completed,Study Completion
+SUB079,Drug A 10mg,Discontinued,Lost to Follow-up
+SUB080,Placebo,Discontinued,Lost to Follow-up
+SUB081,Drug A 20mg,Completed,Study Completion
+SUB082,Drug A 10mg,Discontinued,Protocol Violation
+SUB083,Drug A 10mg,Completed,Study Completion
+SUB084,Placebo,Completed,Study Completion
+SUB085,Placebo,Completed,Study Completion
+SUB086,Placebo,Discontinued,Lost to Follow-up
+SUB087,Drug A 20mg,Discontinued,Protocol Violation
+SUB088,Drug A 10mg,Discontinued,Lost to Follow-up
+SUB089,Drug A 20mg,Completed,Study Completion
+SUB090,Drug A 10mg,Completed,Study Completion
+SUB091,Placebo,Completed,Study Completion
+SUB092,Drug A 20mg,Completed,Study Completion
+SUB093,Drug A 20mg,Discontinued,Withdrawal of Consent
+SUB094,Drug A 10mg,Completed,Study Completion
+SUB095,Drug A 20mg,Completed,Study Completion
+SUB096,Drug A 10mg,Completed,Study Completion
+SUB097,Drug A 10mg,Completed,Study Completion
+SUB098,Drug A 10mg,Completed,Study Completion
+SUB099,Placebo,Completed,Study Completion
+SUB100,Placebo,Completed,Study Completion
+SUB101,Placebo,Completed,Study Completion
+SUB102,Drug A 10mg,Completed,Study Completion
+SUB103,Placebo,Completed,Study Completion
+SUB104,Drug A 10mg,Completed,Study Completion
+SUB105,Drug A 20mg,Completed,Study Completion
+SUB106,Placebo,Completed,Study Completion
+SUB107,Drug A 10mg,Discontinued,Adverse Event
+SUB108,Drug A 20mg,Completed,Study Completion
+SUB109,Placebo,Completed,Study Completion
+SUB110,Placebo,Completed,Study Completion
+SUB111,Placebo,Completed,Study Completion
+SUB112,Placebo,Completed,Study Completion
+SUB113,Drug A 20mg,Completed,Study Completion
+SUB114,Drug A 20mg,Completed,Study Completion
+SUB115,Drug A 10mg,Completed,Study Completion
+SUB116,Drug A 20mg,Completed,Study Completion
+SUB117,Drug A 20mg,Completed,Study Completion
+SUB118,Placebo,Discontinued,Adverse Event
+SUB119,Drug A 20mg,Completed,Study Completion
+SUB120,Drug A 10mg,Completed,Study Completion
+SUB121,Drug A 20mg,Discontinued,Withdrawal of Consent
+SUB122,Drug A 20mg,Completed,Study Completion
+SUB123,Placebo,Completed,Study Completion
+SUB124,Placebo,Completed,Study Completion
+SUB125,Placebo,Completed,Study Completion
+SUB126,Drug A 10mg,Completed,Study Completion
+SUB127,Drug A 20mg,Completed,Study Completion
+SUB128,Drug A 20mg,Completed,Study Completion
+SUB129,Placebo,Completed,Study Completion
+SUB130,Drug A 10mg,Completed,Study Completion
+SUB131,Drug A 10mg,Completed,Study Completion
+SUB132,Placebo,Completed,Study Completion
+SUB133,Placebo,Discontinued,Adverse Event
+SUB134,Drug A 10mg,Discontinued,Withdrawal of Consent
+SUB135,Drug A 20mg,Completed,Study Completion
+SUB136,Placebo,Completed,Study Completion
+SUB137,Drug A 10mg,Completed,Study Completion
+SUB138,Drug A 20mg,Completed,Study Completion
+SUB139,Drug A 10mg,Completed,Study Completion
+SUB140,Drug A 20mg,Completed,Study Completion
+SUB141,Drug A 20mg,Completed,Study Completion
+SUB142,Placebo,Completed,Study Completion
+SUB143,Drug A 10mg,Completed,Study Completion
+SUB144,Placebo,Completed,Study Completion
+SUB145,Placebo,Completed,Study Completion
+SUB146,Placebo,Discontinued,Adverse Event
+SUB147,Drug A 10mg,Completed,Study Completion
+SUB148,Drug A 10mg,Discontinued,Lost to Follow-up
+SUB149,Placebo,Completed,Study Completion
+SUB150,Placebo,Discontinued,Withdrawal of Consent
