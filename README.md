@@ -1,6 +1,13 @@
-# Clinical Trials Safety Tables Generator
+# 🧬 Clinical Trials Safety Tables Generator
 
-A modern web application for generating professional clinical trial safety and efficacy tables, designed for SAS programmers transitioning to web-based solutions.
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Flask](https://img.shields.io/badge/Flask-3.0.0-green.svg)](https://flask.palletsprojects.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+A modern web application for generating professional clinical trial safety and efficacy tables, designed for **SAS programmers** transitioning to web-based solutions.
+
+![Clinical Trials Tables](https://img.shields.io/badge/Clinical%20Research-Tables-purple.svg)
+![CDISC Standards](https://img.shields.io/badge/CDISC-Compliant-orange.svg)
 
 ## Features
 
